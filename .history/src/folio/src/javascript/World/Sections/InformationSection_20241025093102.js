@@ -93,15 +93,15 @@ export default class InformationSection
                 labelTexture: this.resources.items.informationContactTwitterLabelTexture
             },
             {
-                href: 'https://github.com/nikhilsinghrathore1',
+                href: 'https://github.com/brunosimon/',
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in//',
+                href: 'https://www.linkedin.com/in/simonbruno77/',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
-                href: 'sunny3355singh@gmail.com',
+                href: 'mailto:simon.bruno.77@gmail.com',
                 labelTexture: this.resources.items.informationContactMailLabelTexture
             }
         ]
